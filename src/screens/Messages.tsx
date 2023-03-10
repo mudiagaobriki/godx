@@ -22,7 +22,7 @@ const Messages = () => {
   >
     <View style={styles.containerMessages}>
       <View style={styles.top}>
-        <Text style={[styles.title,{marginLeft: 30}]}>Messages</Text>
+        <Text style={[styles.title,{marginLeft: 30}]}>Messages </Text>
         <TouchableOpacity>
           <Icon name="ellipsis-vertical" color={DARK_GRAY} size={20} />
         </TouchableOpacity>
