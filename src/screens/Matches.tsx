@@ -18,7 +18,7 @@ const Matches = () => (
   >
     <View style={styles.containerMatches}>
       <View style={styles.top}>
-        <Text style={styles.title}>Matches</Text>
+        <Text style={styles.title}>Matches </Text>
         <TouchableOpacity>
           <Icon name="ellipsis-vertical" color={DARK_GRAY} size={20} />
         </TouchableOpacity>
